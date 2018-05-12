@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25440'
     url: http://www.gutenberg.org/2009/agents/25440
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43972#A-Journey-in-Southeastern-Mexico
 gutenberg_issued: '2013-10-18'
 gutenberg_type: Text
 identifiers:
