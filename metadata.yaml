@@ -1,0 +1,28 @@
+_repo: A-Journey-in-Southeastern-Mexico_43972
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harper, Henry Howard
+    birthdate: 1871
+    deathdate: 1953
+    gutenberg_agent_id: '25440'
+    url: http://www.gutenberg.org/2009/agents/25440
+description: ''
+gutenberg_issued: '2013-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43972'
+  lccn: '10006172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Veracruz-Llave (Mexico : State) -- Description and travel'
+- !lcsh 'Tuxpan de Rodríguez Cano (Mexico)'
+- !lcc 'F1201'
+title: A Journey in Southeastern Mexico
+url: http://www.gutenberg.org/ebooks/43972
